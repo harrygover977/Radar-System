@@ -31,8 +31,8 @@ long duration;
 long inches;
 
 // initialise constants
-const int trigPin = 6;
-const int echoPin = 5;
+const int trigPin = 13;
+const int echoPin = 12;
 const int servoPin = 10;
 
 void setup() {

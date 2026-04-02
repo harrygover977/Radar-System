@@ -9,7 +9,7 @@ def read_data():
     # refresh the csv file each time the program runs 
     pd.DataFrame(columns =['position', 'distance']).to_csv('data.csv', index=False)
 
-    for i in range(182):
+    for i in range(360):
         try:
         # read each line from the serial port
             line = ser.readline()
@@ -24,7 +24,7 @@ def read_data():
             print(values)
             # create a new row for each data point 
             new_row = pd.DataFrame([{
-                'position': values[0],
+                'position': i,
                 'distance': values[1]
             }])
             
