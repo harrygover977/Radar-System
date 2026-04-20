@@ -19,7 +19,7 @@ def update(frame):
     except Exception as e:
         print(f"Error: {e}")
         
-threading.Thread(target=read_data, daemon=True).start()
+    threading.Thread(target=read_data, daemon=True).start()
 
 ani = FuncAnimation(fig, update, interval=180)
 plt.show()
