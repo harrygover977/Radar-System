@@ -124,4 +124,4 @@ It reflects core skills relevant to robotics and AI engineering, particularly in
 
 If you have any questions or suggestions, feel free to get in touch!
 
-[Harry Gover - LinkedIn](www.linkedin.com/in/harry-gover-72344331b)
+[Harry Gover - LinkedIn](https://linkedin.com/in/harry-gover-72344331b)
