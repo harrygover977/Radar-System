@@ -1,3 +1,4 @@
+
 # Ultrasonic Radar System
 
 A real-time radar visualisation system built using an Arduino, ultrasonic sensor, and Python. This project scans the environment by rotating a sensor across 180°, measuring distances, and rendering the results in a radar-style interface using Pygame.
@@ -6,7 +7,8 @@ A real-time radar visualisation system built using an Arduino, ultrasonic sensor
 
 ## 🎥 Demo
 
-Demo Coming soon...
+
+https://github.com/user-attachments/assets/bbc20f1f-73a7-486e-bd5e-bcb649bfca63
 
 ---
 
